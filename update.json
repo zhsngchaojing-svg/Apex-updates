@@ -3,10 +3,10 @@
   "packageName": "io.apex.system",
   "enabled": true,
   "isForce": true,
-  "versionCode": 185,
-  "versionName": "1.0",
+  "versionCode": 186,
+  "versionName": "1.1",
   "downloadUrl": "https://drive.uc.cn/s/dcde3f89949b4?public=1",
-  "changelog": "Apex 1.0 正式版。\n· 无痕伪装 CPU：完善方案部署、开机加载与卸载提示，内核模块卸载需重启设备。\n· 沙盒：更新资料管理策略与生命周期处理。\n· 自动化与应用管理：完善任务执行、应用冻结和备份恢复。\n· 界面：调整导航、开关和页面转场。\n· 正式发行包启用代码混淆与资源收缩。",
+  "changelog": "Apex 1.1 正式版。\n· 无痕伪装 CPU：完善方案部署、开机加载与卸载提示，内核模块卸载需重启设备。\n· 沙盒：更新资料管理策略与生命周期处理。\n· 自动化与应用管理：完善任务执行、应用冻结和备份恢复。\n· 界面：调整导航、开关和页面转场。\n· 正式发行包继续启用代码混淆与资源收缩。",
   "packageSize": "3.99 MB",
-  "releaseDate": "2026-10-30"
+  "releaseDate": "2026-10-31"
 }
